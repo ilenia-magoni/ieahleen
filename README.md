@@ -1,12 +1,19 @@
 ### Hi there 👋
 
+My name is Ilenia, I hail from Italy.
+I am a contributor for two open source projects, freecodecamp.org and habitica.com, more for other stuff than coding (translation, user support...), but I am learning.
+
+I'm in the process of getting a Master's Degree in Chemistry (after a Bachelor's).
+I'm also progressing through the freeCodeCamp curriculum.
+
+
 <!--
 **ieahleen/ieahleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
