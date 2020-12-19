@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ieahleen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Where I am online:
- - [Steam](https://steamcommunity.com/profiles/76561198123312343/) || [Wish List](https://store.steampowered.com/wishlist/profiles/76561198123312343/)
- - [FreeCodeCamp](https://www.freecodecamp.org/) || [My profile](https://www.freecodecamp.org/ieahleen)
- - [FreeCodeCamp Forum](https://forum.freecodecamp.org/) || [My Profile](https://forum.freecodecamp.org/u/ieahleen/)
- - [Habitica](https://habitica.com/) || [My profile](https://habitica.com/profile/c073342f-4a65-4a13-9ffd-9e7fa5410d6b)
+ - Steam as [ieahleen](https://steamcommunity.com/profiles/76561198123312343/) || [Wish List](https://store.steampowered.com/wishlist/profiles/76561198123312343/)
+ - [FreeCodeCamp](https://www.freecodecamp.org/) as [ieahleen](https://www.freecodecamp.org/ieahleen)
+ - [FreeCodeCamp Forum](https://forum.freecodecamp.org/) as [@ieahleen](https://forum.freecodecamp.org/u/ieahleen/)
+ - [Habitica](https://habitica.com/) as [@ieahleen](https://habitica.com/profile/c073342f-4a65-4a13-9ffd-9e7fa5410d6b)
+  - Twitter as [@ieahleem](https://twitter.com/ieahleen)
   
