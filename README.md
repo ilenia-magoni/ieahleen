@@ -6,6 +6,8 @@ I am a contributor for two open source projects, freecodecamp.org and habitica.c
 I'm in the process of getting a Master's Degree in Chemistry (after a Bachelor's).
 I'm also progressing through the freeCodeCamp curriculum.
 
+As af August 2021 I also work for freeCideCamp.
+
 
 <!--
 **ieahleen/ieahleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
