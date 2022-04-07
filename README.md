@@ -34,4 +34,6 @@ Where I am online:
  - [FreeCodeCamp Forum](https://forum.freecodecamp.org/) as [@ieahleen](https://forum.freecodecamp.org/u/ieahleen/)
  - [Habitica](https://habitica.com/) as [@ieahleen](https://habitica.com/profile/c073342f-4a65-4a13-9ffd-9e7fa5410d6b)
   - Twitter as [@ieahleem](https://twitter.com/ieahleen)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B7AM2E8)
   
